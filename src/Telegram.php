@@ -1,6 +1,6 @@
 <?php
 
-namespace jakharbek\telegramsharer;
+namespace jakharbek\telegram;
 
 /**
  * Telegram Bot Class.
