@@ -1,6 +1,6 @@
-Telegram Social Sharer
+Telegram sdk
 =========
-Telegram Social Sharer
+Telegram sdk
 
 Installation
 ------------
@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer require --prefer-dist jakharbek/telegram-sharer "dev-master"
+php composer require --prefer-dist jakharbek/telegram-sdk "dev-master"
 ```
 
 or add
 
 ```
-"jakharbek/telegram-sharer": "dev-master"
+"jakharbek/telegram-sdk": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
